@@ -40,7 +40,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="mb-4 md:mb-0">
               <p className="text-muted-foreground">
-                © 2024 Dhanush. All rights reserved.
+                © 2025 Dhanush. All rights reserved.
               </p>
               <p className="text-sm text-primary font-mono">
                 Built with passion for technology &amp; security
